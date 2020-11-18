@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+div {
+  padding: 1%;
+}
+h1, h2 {
+  color: black;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4, h5 {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.code_red {
+  color: red;
+}

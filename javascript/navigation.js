@@ -25,6 +25,11 @@ document.writeln('<li class="nav-item active">');
 document.writeln('<a class="nav-link" href="about.html">ABOUT</a>');
 document.writeln('</li>');
 
+//MATH PAGE//
+document.writeln('<li class="nav-item active">');
+document.writeln('<a class="nav-link" href="math.html">MATH</a>');
+document.writeln('</li>');
+
 //GAMES PAGE//
 document.writeln('<li class="nav-item active">');
 document.writeln('<a class="nav-link" href="games.html">GAMES</a>');
